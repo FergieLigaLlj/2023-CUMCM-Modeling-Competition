@@ -6,4 +6,4 @@
 1. **Spearman**'s rank correlation coefficient
 2. **Gaussian** Distribution Curve Fitting, **Time Series Analysis**, **Cost-plus pricing**
 3. **Dada Visualization**, **Multi-Level** Complex **Linear Regression** Analysis
-4. **Analytic Hierarchy Process** (AHP)
+4. **Analytic Hierarchy Process** (AHP).
